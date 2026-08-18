@@ -1,4 +1,4 @@
-🖐️ Hand Gesture Controlled Desktop Automation Using Python 💻
+# 🖐️ **Hand Gesture Controlled Desktop Automation Using Python** 💻
 
 📌 Project Overview
 
