@@ -582,9 +582,13 @@ Python · Computer Vision · OpenCV · CVZone · MediaPipe · Hand Tracking · G
 ⭐ Project Status
 
 Status:  Portfolio Project
+
 Language: Python
+
 Domain: Computer Vision & Human-Computer Interaction
+
 Platform: Windows
+
 Input: Webcam
 
 Built with 🐍 Python, 👁️ Computer Vision, and 🖐️ Hand Gestures.
